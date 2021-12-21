@@ -60,10 +60,10 @@ His research showed how demographics and linguistics phenomena are encoded in mo
 In addition to regularly serving on program committees, he co-organized the HAMLETS workshop at NeurIPS 2020.
 
 ### Dieuwke Hupkes
-Dieuwke Hupkes is a research scientist at Facebook AI Research.
+Dieuwke Hupkes (dieuwkehupkes@fb.com) is a research scientist at Facebook AI Research.
 The main focus of her research is understanding how neural networks  generalise, considering specifically on how they can understand and learn grammar, structure and compositionality. 
 Developing methods to interpret and interact with neural networks has therefore been an important area of focus in her research.
-She authored many articles directly relevant to the workshop and has co-organised the previous three editions of BlackboxNLP. Dieuwke Hupkes (dieuwkehupkes@fb.com)
+She authored many articles directly relevant to the workshop and has co-organised the previous three editions of BlackboxNLP. 
 
 ### Naomi Saphra
 Naomi Saphra} (nsaphra@nyu.edu) is a postdoc at New York University. 
