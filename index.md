@@ -1,7 +1,7 @@
 # BlackboxNLP 2022
 
 There will be a fifth edition of BlackboxNLP! 
-It will again be collocated with EMNLP 2021.
+It will be collocated with EMNLP 2022.
 
 ## Important dates
 
@@ -34,7 +34,7 @@ The topics of the workshop will include, but are not limited to:
 
 In addition to full papers, we  encourage the submission of non-archival extended abstracts.
 
-BlackboxNLP 2021 is the fourth BlackboxNLP workshop. 
+BlackboxNLP 2022 is the fifth BlackboxNLP workshop. 
 The programme and proceedings of the previous editions, which were held at EMNLP 2018, ACL 2019, EMNLP 2020, and EMNLP 2021, can be found [here](https://blackboxnlp.github.io/2018/), [here](https://blackboxnlp.github.io/2019/), [here](https://blackboxnlp.github.io/2020/), and [here](https://blackboxnlp.github.io/2021/), respectively.
 
 ## Organizers
