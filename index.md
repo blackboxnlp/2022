@@ -1,7 +1,7 @@
 # BlackboxNLP 2022
 
 There will be a fifth edition of BlackboxNLP! 
-It will again be collocated with EMNLP 2021.
+It will again be collocated with EMNLP 2022.
 
 ## Important dates
 
