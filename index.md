@@ -5,9 +5,11 @@ It will be collocated with EMNLP 2022.
 
 ## Important dates
 
-- TBD -- Submission deadline.
-- TBD -- Notification of acceptance.
-- TBD -- Camera-ready papers due.
+- August 15, 2022 -- ARR Submission deadline.
+- September 7, 2022 -- Direct submission deadline (via openreview)
+- October 2, 2022 -- ARR commitment deadline
+- October 9, 2022 -- Notification of acceptance.
+- October 26 -- Camera-ready papers due.
 - TBD -- Workshop.
 
 ## Workshop description
