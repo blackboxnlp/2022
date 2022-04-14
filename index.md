@@ -34,10 +34,19 @@ The topics of the workshop will include, but are not limited to:
 - Analysing the linguistic properties captured by contextualised word representations (e.g. Aina et al 2019, Bommasani et al., 2020)
 - Analysing learning and inference mechanisms of neural networks, such as memory and attention (e.g. Abnar and Zuidema, 2020, Serrano and Smith, 2019, Haviv et al., 2019)
 
-In addition to full papers, we  encourage the submission of non-archival extended abstracts.
+(To be updated)
 
+<<<<<<< HEAD
 BlackboxNLP 2022 is the fifth BlackboxNLP workshop. 
 The programme and proceedings of the previous editions, which were held at EMNLP 2018, ACL 2019, EMNLP 2020, and EMNLP 2021, can be found [here](https://blackboxnlp.github.io/2018/), [here](https://blackboxnlp.github.io/2019/), [here](https://blackboxnlp.github.io/2020/), and [here](https://blackboxnlp.github.io/2021/), respectively.
+=======
+## Previous workshops
+
+- [BlackboxNLP 2018](https://blackboxnlp.github.io/2018/) (at EMNLP 2018)
+- [BlackboxNLP 2019](https://blackboxnlp.github.io/2019/) (at ACL 2019)
+- [BlackboxNLP 2020](https://blackboxnlp.github.io/2020/) (at EMNLP 2020)
+- [BlackboxNLP 2021](https://blackboxnlp.github.io/2021/) (at EMNLP 2021)
+>>>>>>> 0d23691b4edba1b9a5b3a0665706e8fd848b1d9f
 
 ## Organizers
 
