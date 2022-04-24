@@ -36,7 +36,8 @@ The topics of the workshop will include, but are not limited to:
 - Analysing the linguistic properties captured by contextualised word representations (e.g. Aina et al 2019, Bommasani et al., 2020)
 - Analysing learning and inference mechanisms of neural networks, such as memory and attention (e.g. Abnar and Zuidema, 2020, Serrano and Smith, 2019, Haviv et al., 2019)
 
-(To be updated)
+## Call for Papers
+We will be accepting 8-page archival submissions and non-archival extended abstracts. More details TBA.
 
 ## Previous workshops
 
