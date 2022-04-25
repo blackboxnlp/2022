@@ -1,5 +1,7 @@
 # BlackboxNLP 2022
 
+<img src="https://raw.githubusercontent.com/blackboxnlp/blackboxnlp.github.io/main/logo.svg" width="222.5">
+
 There will be a fifth edition of BlackboxNLP! 
 It will be collocated with EMNLP 2022.
 
