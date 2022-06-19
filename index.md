@@ -7,10 +7,10 @@ It will be collocated with EMNLP 2022.
 
 - July 15, 2022 -- ARR submission deadline (via [ARR](https://openreview.net/group?id=aclweb.org/ACL/ARR/2022)).
 - September 7, 2022 -- Direct submission deadline (via [OpenReview](https://openreview.net/group?id=EMNLP/2022/Workshop/BlackboxNLP))
-- October 2, 2022 -- ARR commitment deadline (via the commitment form-- link TBD).
+- October 2, 2022 -- ARR commitment deadline (via [OpenReview](https://openreview.net/group?id=EMNLP/2022/Workshop/BlackboxNLP)).
 - October 9, 2022 -- Notification of acceptance.
 - October 16, 2022 -- Camera-ready papers due.
-- December 7 or 8, 2022 (exact date/time TBD) -- Workshop (hybrid).
+- December 8, 2022 -- Workshop (hybrid).
 
 All deadlines are 11:59pm UTC-12 ("anywhere on earth").
 
@@ -37,7 +37,22 @@ The topics of the workshop will include, but are not limited to:
 - Analysing learning and inference mechanisms of neural networks, such as memory and attention (e.g. Abnar and Zuidema, 2020, Serrano and Smith, 2019, Haviv et al., 2019)
 
 ## Call for Papers
-We will be accepting 8-page archival submissions and non-archival extended abstracts. More details TBA.
+All submissions should use the ACL [templates](https://github.com/acl-org/acl-style-files) and formatting requirements specified by [ACL Rolling Review](https://aclrollingreview.org/), and should be fully anonymized. Submissions can be made through [OpenReview](https://openreview.net/group?id=EMNLP/2022/Workshop/BlackboxNLP).
+
+### Submission Types
+- **Archival papers** of up to 8 pages + references. These are papers reporting on completed, original and unpublished research, and can be submitted **either with or without ARR reviews** by selecting the appropriate box on the submission form. An optional appendix may appear after the references in the same pdf file. If you do not include ARR reviews with your submission, it will be reviewed by reviewers specific to the BlackBoxNLP workshop. Accepted papers are expected to be presented at the workshop and will be published in the workshop proceedings of the ACL Anthology, meaning they cannot be published elsewhere. They should report on obtained results rather than intended work.
+- **Non-archival extended abstracts** of 2 pages + references. These may report on work in progress or may be cross submissions of work that has already appeared (or is scheduled to appear) in another venue in 2021-2022. Abstract titles will be posted on the workshop website but will not be included in the proceedings.
+
+Accepted submissions will be presented at the workshop: most as posters, some as oral presentations (determined by the program committee).
+
+### Dual Submissions and Preprints
+Dual submissions are **not** allowed. Papers posted to preprint servers such as arxiv can be submitted without any restrictions on when they were posted.
+
+### Camera-ready information
+Authors of accepted archival papers should upload the final version of their paper to the submission system by the camera-ready deadline. Authors may use one extra page to address reviewer comments, for a total of nine pages + references (an optional broader impacts or ethics statement is allowed on a 10th page).
+
+## Contact
+Please contact the organizers at blackboxnlp@googlegroups.com for any questions.
 
 ## Previous workshops
 
