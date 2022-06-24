@@ -16,28 +16,24 @@ All deadlines are 11:59pm UTC-12 ("anywhere on earth").
 
 ## Workshop description
 
-Neural networks have rapidly become a central component in NLP systems in the last few years. 
-The improvement in accuracy and performance brought by the introduction of neural networks has typically come at the cost of our understanding of the system: How do we assess what the representations and computations are that the network learns? 
-The goal of this workshop is to bring together people who are attempting to peek inside the neural network black box, taking inspiration from machine learning, psychology, linguistics, and neuroscience.
+Many recent performance improvements in NLP have come at the cost of understanding of the systems. How do we assess what representations and computations models learn? How do we formalize desirable properties of interpretable models, and measure the extent to which existing models achieve them? How can we build models that better encode these properties? What can new or existing tools tell us about systems’ inductive biases?
 
-The topics of the workshop will include, but are not limited to:
+The goal of this workshop is to bring together researchers focused on interpreting and explaining NLP models by taking inspiration from machine learning, psychology, linguistics, and neuroscience. We hope the workshop will serve as an interdisciplinary meetup that allows for cross-collaboration.
 
-- Applying analysis techniques from neuroscience to analyse high-dimensional vector representations (such as Haxby et al., 2001; Kriegeskorte, 2008) in artificial neural networks;
-- Analyzing the network's response to strategically chosen inputs in order to infer the linguistic generalizations that the network has acquired (e.g., Linzen et al., 2016; Hupkes et al., 2020; Dankers et al., 2021);
-- Examining the performance of the network on simplified or formal languages (e.g., Hupkes et al., 2018; Lake et al., 2018);
-- Proposing modifications to neural network architectures that can make them more interpretable (e.g., Palanki et al., 2018);
-- Scaling up neural network analysis techniques developed in the connectionist literature in the 1990s (Elman, 1991); 
-- Testing whether interpretable information can be decoded from intermediate representations (e.g., Adi et al.,  2017; Chrupala et al., 2017; Hupkes et al., 2017, Conneau et al., 2018);
-- Translating insights on neural networks interpretation from the vision domain (e.g., Zeiler & Fergus, 2014) to language;
-- Explaining model predictions (e.g., Lei et al., 2016; Alvarez-Melis & Jaakkola, 2017): What are ways to explain specific decisions made by neural networks?
-- Adversarial examples in NLP (e.g., Ebrahimi et al., 2018; Belinkov & Bisk, 2018): How to generate them and how to evaluate their quality?
-- Open-source tools for analyzing neural networks in NLP (e.g., Strobelt et al., 2018; Rikters, 2018).
-- Evaluation of analysis results: How do we know that the analysis is valid?
-- Analysing the linguistic properties captured by contextualised word representations (e.g. Aina et al 2019, Bommasani et al., 2020)
-- Analysing learning and inference mechanisms of neural networks, such as memory and attention (e.g. Abnar and Zuidema, 2020, Serrano and Smith, 2019, Haviv et al., 2019)
+The topics of the workshop include, but are not limited to:
+- Explanation methods such as saliency, attribution, free-text explanations, or explanations with structured properties
+- Probing methods for testing whether models have acquired or represent certain linguistic properties
+- Applying analysis techniques from other disciplines (e.g., neuroscience or computer vision)
+- Examining model performance on simplified or formal languages
+- More interpretable model architectures
+- Open-source tools for analysis, visualization, or explanation;
+- Evaluation of explanation methods
+- Opinion pieces about the state of explainable NLP
+
+Feel free to reach out to the organizers at the email below if you are not sure whether a specific topic is well-suited for submission.
 
 ## Call for Papers
-All submissions should use the ACL [templates](https://github.com/acl-org/acl-style-files) and formatting requirements specified by [ACL Rolling Review](https://aclrollingreview.org/), and should be fully anonymized. Submissions can be made through [OpenReview](https://openreview.net/group?id=EMNLP/2022/Workshop/BlackboxNLP).
+All submissions should use the ACL [templates](https://github.com/acl-org/acl-style-files) and formatting requirements specified by [ACL Rolling Review](https://aclrollingreview.org/), and should be fully anonymized. Submissions of both types can be made through [OpenReview](https://openreview.net/group?id=EMNLP/2022/Workshop/BlackboxNLP).
 
 ### Submission Types
 - **Archival papers** of up to 8 pages + references. These are papers reporting on completed, original and unpublished research, and can be submitted **either with or without ARR reviews** by selecting the appropriate box on the submission form. An optional appendix may appear after the references in the same pdf file. If you do not include ARR reviews with your submission, it will be reviewed by reviewers specific to the BlackBoxNLP workshop. Accepted papers are expected to be presented at the workshop and will be published in the workshop proceedings of the ACL Anthology, meaning they cannot be published elsewhere. They should report on obtained results rather than intended work.
@@ -46,7 +42,7 @@ All submissions should use the ACL [templates](https://github.com/acl-org/acl-st
 Accepted submissions will be presented at the workshop: most as posters, some as oral presentations (determined by the program committee).
 
 ### Dual Submissions and Preprints
-Dual submissions are **not** allowed. Papers posted to preprint servers such as arxiv can be submitted without any restrictions on when they were posted.
+Dual submissions are **not** allowed for the archival track. Papers posted to preprint servers such as arxiv can be submitted without any restrictions on when they were posted.
 
 ### Camera-ready information
 Authors of accepted archival papers should upload the final version of their paper to the submission system by the camera-ready deadline. Authors may use one extra page to address reviewer comments, for a total of nine pages + references (an optional broader impacts or ethics statement is allowed on a 10th page).
