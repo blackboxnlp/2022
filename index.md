@@ -80,10 +80,9 @@ He has been awarded the Harvard Mind, Brain, and Behavior Postdoctoral Fellowshi
 He co-organised BlackboxNLP in 2019, 2020, and 2021, as well as the 1st and 2nd machine translation robustness tasks at WMT.
 
 ### Yanai Elazar
-Yanai Elazar (yanaiela@gmail.com) is a PhD student at Bar-Ilan University. 
-His research focus is interpretability and analysis methods for NLP. 
-His research showed how demographics and linguistics phenomena are encoded in models’ representations, and how more abstract capabilities, such as commonsense and reasoning, are manifested, and being used by models. 
-In addition to regularly serving on program committees, he co-organized the HAMLETS workshop at NeurIPS 2020.
+Yanai Elazar (yanaiela@gmail.com) is a postdoctoral researcher at AI2 & UW. 
+His research focus is interpretability and analysis methods for NLP.
+His research showed how demographics and linguistics phenomena are encoded in models’ representations, and how more abstract capabilities, such as commonsense and reasoning, are manifested, and being used by models.
 
 ### Dieuwke Hupkes
 Dieuwke Hupkes (dieuwkehupkes@fb.com) is a research scientist at Facebook AI Research.
