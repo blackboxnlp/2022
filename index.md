@@ -59,7 +59,9 @@ Please contact the organizers at blackboxnlp@googlegroups.com for any questions.
 
 ## Sponsors
 
-Blackbox NLP 2022 is sponsored by Google.
+Blackbox NLP 2022 is sponsored by:
+
+<img src="https://raw.githubusercontent.com/blackboxnlp/blackboxnlp.github.io/main/Google%20Logo.png" height="3em" alt="Google logo" />
 
 ## Organizers
 
