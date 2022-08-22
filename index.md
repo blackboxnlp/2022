@@ -57,6 +57,10 @@ Please contact the organizers at blackboxnlp@googlegroups.com for any questions.
 - [BlackboxNLP 2020](https://blackboxnlp.github.io/2020/) (at EMNLP 2020)
 - [BlackboxNLP 2021](https://blackboxnlp.github.io/2021/) (at EMNLP 2021)
 
+## Sponsors
+
+Blackbox NLP 2022 is sponsored by Google.
+
 ## Organizers
 
 ### Jasmijn Bastings
