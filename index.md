@@ -66,7 +66,7 @@ Blackbox NLP 2022 is sponsored by:
 ## Organizers
 
 ### Jasmijn Bastings
-Jasmijn Bastings (bastings[-at-]google.com) is a researcher at Google in Amsterdam. 
+Jasmijn Bastings (last name at google.com) is a researcher at Google in Amsterdam. 
 She got her PhD from the University of Amsterdam on Interpretable and Linguistically-informed Deep Learning for NLP. 
 Jasmijn's current research focuses on interpretable NLP models and predictions, and she authored two BlackboxNLP papers (2018, 2020) on generalisation and saliency methods, as well as an ACL paper (2019) on interpretable neural predictions using differentiable binary variables.
 
