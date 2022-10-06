@@ -72,7 +72,7 @@ Jasmijn's current research focuses on interpretable NLP models and predictions, 
 
 ### Yonatan Belinkov
 Yonatan Belinkov (belinkov@technion.ac.il) is an assistant professor at the Technion. 
-He has previosuly been a Postdoctoral Fellow at Harvard and MIT. 
+He has previously been a Postdoctoral Fellow at Harvard and MIT.
 His recent research focuses on interpretability and robustness of neural network models of language. 
 His research has been published at leading NLP and ML venues. 
 His PhD dissertation at MIT analyzed internal language representations in deep learning models.
@@ -96,7 +96,7 @@ Their research is on understanding the training dynamics of language models, fro
 Their relevant work has been published at NAACL and EMNLP, and they have served on the organizing committee for the Workshop on Representation Learning for NLP (RepL4NLP). 
 
 ### Sarah Wiegreffe
-Sarah Wiegreffe (saw@gatech.edu) is a PhD candidate at Georgia Institute of Technology. 
+Sarah Wiegreffe (sarahw at allenai.org) is a postdoctoral researcher at the Allen Institute for AI (AI2).
 Her research focuses on improved modeling and analysis of explanations from neural models along the axes of faithfulness and human acceptability, with a recent focus on free-text explanations. 
 Her research on interpretability has been published at leading ML and NLP conferences. 
 She served as a publicity chair for NAACL 2021 and frequently serves on conference program committees.
