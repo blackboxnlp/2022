@@ -8,7 +8,7 @@ It will be collocated with EMNLP 2022.
 - July 15, 2022 -- ARR submission deadline (via [ARR](https://openreview.net/group?id=aclweb.org/ACL/ARR/2022)).
 - September 7, 2022 -- Direct submission deadline (via [OpenReview](https://openreview.net/group?id=EMNLP/2022/Workshop/BlackboxNLP))
 - October 2, 2022 -- ARR commitment deadline (via [OpenReview](https://openreview.net/group?id=EMNLP/2022/Workshop/BlackboxNLP)).
-- October 9, 2022 -- Notification of acceptance.
+- **October 11, 2022** -- Notification of acceptance. (This was delayed by two days to make sure emergency reviews are taken into account.)
 - October 16, 2022 -- Camera-ready papers due.
 - December 8, 2022 -- Workshop (hybrid).
 
