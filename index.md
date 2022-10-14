@@ -8,8 +8,8 @@ It will be collocated with EMNLP 2022.
 - July 15, 2022 -- ARR submission deadline (via [ARR](https://openreview.net/group?id=aclweb.org/ACL/ARR/2022)).
 - September 7, 2022 -- Direct submission deadline (via [OpenReview](https://openreview.net/group?id=EMNLP/2022/Workshop/BlackboxNLP))
 - October 2, 2022 -- ARR commitment deadline (via [OpenReview](https://openreview.net/group?id=EMNLP/2022/Workshop/BlackboxNLP)).
-- **October 11, 2022** -- Notification of acceptance. (This was delayed by two days to make sure emergency reviews are taken into account.)
-- October 18, 2022 -- Camera-ready papers due.
+- **October 11, 2022** -- Notification of acceptance. (This was delayed by two days to make sure emergency reviews are taken into account. Extended abstracts were reviewed by the program chairs and only have a decision.)
+- **October 18, 2022** -- Camera-ready papers due. (Please read below for instructions.)
 - December 8, 2022 -- Workshop (hybrid).
 
 All deadlines are 11:59pm UTC-12 ("anywhere on earth").
@@ -45,7 +45,7 @@ Accepted submissions will be presented at the workshop: most as posters, some as
 Dual submissions are **not** allowed for the archival track. Papers posted to preprint servers such as arxiv can be submitted without any restrictions on when they were posted.
 
 ### Camera-ready information
-Authors of accepted archival papers should upload the final version of their paper to the submission system by the camera-ready deadline. Authors may use one extra page to address reviewer comments, for a total of nine pages + references. Broader Impacts/Ethics and Limitations sections are optional and can be included on a 10th page.
+Authors of accepted archival papers should upload the final version of their paper to the submission system by the camera-ready deadline. Authors may use **one extra page** to address reviewer comments, for a total of nine pages + references. Broader Impacts/Ethics and Limitations sections are optional and can be included on a 10th page.
 
 ## Contact
 Please contact the organizers at blackboxnlp@googlegroups.com for any questions.
