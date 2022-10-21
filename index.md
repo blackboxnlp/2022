@@ -65,13 +65,15 @@ Blackbox NLP 2022 is sponsored by:
 
 ## Organizers
 
+You can reach the organizers by e-mail to <a href="mailto:blackboxnlp@googlegroups.com">blackboxnlp@googlegroups.com</a>.
+
 ### Jasmijn Bastings
-Jasmijn Bastings (last name at google.com) is a researcher at Google in Amsterdam. 
+Jasmijn Bastings is a researcher at Google in Amsterdam. 
 She got her PhD from the University of Amsterdam on Interpretable and Linguistically-informed Deep Learning for NLP. 
 Jasmijn's current research focuses on interpretable NLP models and predictions, and she authored two BlackboxNLP papers (2018, 2020) on generalisation and saliency methods, as well as an ACL paper (2019) on interpretable neural predictions using differentiable binary variables.
 
 ### Yonatan Belinkov
-Yonatan Belinkov (belinkov@technion.ac.il) is an assistant professor at the Technion. 
+Yonatan Belinkov is an assistant professor at the Technion. 
 He has previously been a Postdoctoral Fellow at Harvard and MIT.
 His recent research focuses on interpretability and robustness of neural network models of language. 
 His research has been published at leading NLP and ML venues. 
@@ -80,23 +82,23 @@ He has been awarded the Harvard Mind, Brain, and Behavior Postdoctoral Fellowshi
 He co-organised BlackboxNLP in 2019, 2020, and 2021, as well as the 1st and 2nd machine translation robustness tasks at WMT.
 
 ### Yanai Elazar
-Yanai Elazar (yanaiela@gmail.com) is a postdoctoral researcher at AI2 & UW. 
+Yanai Elazar is a postdoctoral researcher at AI2 & UW. 
 His research focus is interpretability and analysis methods for NLP.
 His research showed how demographics and linguistics phenomena are encoded in models’ representations, and how more abstract capabilities, such as commonsense and reasoning, are manifested, and being used by models.
 
 ### Dieuwke Hupkes
-Dieuwke Hupkes (dieuwkehupkes@fb.com) is a research scientist at Facebook AI Research.
+Dieuwke Hupkes is a research scientist at Facebook AI Research.
 The main focus of her research is understanding how neural networks  generalise, considering specifically on how they can understand and learn grammar, structure and compositionality. 
 Developing methods to interpret and interact with neural networks has therefore been an important area of focus in her research.
 She authored many articles directly relevant to the workshop and has co-organised the previous three editions of BlackboxNLP. 
 
 ### Naomi Saphra
-Naomi Saphra} (nsaphra@nyu.edu) is a postdoc at New York University. 
+Naomi Saphra is a postdoc at New York University. 
 Their research is on understanding the training dynamics of language models, from the standpoint of linguistic structure acquisition. 
 Their relevant work has been published at NAACL and EMNLP, and they have served on the organizing committee for the Workshop on Representation Learning for NLP (RepL4NLP). 
 
 ### Sarah Wiegreffe
-Sarah Wiegreffe (sarahw at allenai.org) is a postdoctoral researcher at the Allen Institute for AI (AI2).
+Sarah Wiegreffe is a postdoctoral researcher at the Allen Institute for AI (AI2).
 Her research focuses on improved modeling and analysis of explanations from neural models along the axes of faithfulness and human acceptability, with a recent focus on free-text explanations. 
 Her research on interpretability has been published at leading ML and NLP conferences. 
 She served as a publicity chair for NAACL 2021 and frequently serves on conference program committees.
