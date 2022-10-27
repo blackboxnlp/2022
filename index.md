@@ -14,6 +14,11 @@ It will be collocated with EMNLP 2022.
 
 All deadlines are 11:59pm UTC-12 ("anywhere on earth").
 
+### Onsite Poster info
+
+Poster boards are 4 by 8 feet (121 x 242 cm) in size in Portrait format, they can accommodate 2’ x 3’ or A0 sized posters in both landscape and portrait formats, or 4’x6’ in Portrait format.
+
+
 ## Workshop description
 
 Many recent performance improvements in NLP have come at the cost of understanding of the systems. How do we assess what representations and computations models learn? How do we formalize desirable properties of interpretable models, and measure the extent to which existing models achieve them? How can we build models that better encode these properties? What can new or existing tools tell us about systems’ inductive biases?
