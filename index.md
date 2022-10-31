@@ -14,9 +14,9 @@ It will be collocated with EMNLP 2022.
 
 All deadlines are 11:59pm UTC-12 ("anywhere on earth").
 
-### Onsite Poster info
+### Onsite Poster info (Updated Oct 23)
 
-Poster boards are 4 by 8 feet (121 x 242 cm) in size in Portrait format, they can accommodate 2’ x 3’ or A0 sized posters in both landscape and portrait formats, or 4’x6’ in Portrait format.
+The poster panels are 3.28’ (1m wide) x 8.20’ (2.5m tall). We recommend to have posters that are portrait in orientation.
 
 
 ## Workshop description
