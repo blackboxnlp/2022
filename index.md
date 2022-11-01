@@ -16,8 +16,8 @@ All deadlines are 11:59pm UTC-12 ("anywhere on earth").
 
 ### Onsite Poster info (Updated Oct 23)
 
-The poster panels are 3.28’ (1m wide) x 8.20’ (2.5m tall). We recommend to have posters that are portrait in orientation.
-
+- The onsite poster panels are 3.28’ (1m wide) x 8.20’ (2.5m tall). We recommend to have posters that are portrait in orientation.
+- Virtual posters will be available in GatherTown throughout the conference. Apart from the scheduled virtual poster session, posters can be viewed and commented on at any time. We ask you to be virtually present at your poster at the virtual poster session as will be advertised on the schedule.
 
 ## Workshop description
 
