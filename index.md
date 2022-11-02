@@ -6,7 +6,7 @@ It will be collocated with EMNLP 2022.
 ## Invited speakers
 
 ### [Lena Voita](https://lena-voita.github.io/)
-<img src="https://lena-voita.github.io/img/people/orange_lena-min.jpg" width="100px">
+<img src="https://lena-voita.github.io/img/people/orange_lena-min.jpg" width="250px", align="right">
 Bio: Elena (Lena) Voita is a Research Scientist joining Facebook AI Research. She is mostly interested in understanding what and how neural models learn. Her analysis works so far include looking at model components, adapting attribution methods to NLP models, black-box analysis of model outputs, as well as information-theoretic view on analysis (e.g., probing). Previously, she was a PhD student at the University of Edinburgh supervised by Ivan Titov and Rico Sennrich, was awarded Facebook PhD Fellowship, worked as a Research Scientist at Yandex Research side by side with the Yandex Translate team. She enjoys writing blog posts and teaching; a public version of (a part of) her NLP course is available at [NLP Course For You](https://lena-voita.github.io/nlp_course.html).
 
 ### Catherine Olson
