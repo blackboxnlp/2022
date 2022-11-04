@@ -20,6 +20,7 @@ Bio: Elena (Lena) Voita is a Research Scientist joining Facebook AI Research. Sh
 - October 2, 2022 -- ARR commitment deadline (via [OpenReview](https://openreview.net/group?id=EMNLP/2022/Workshop/BlackboxNLP)).
 - **October 11, 2022** -- Notification of acceptance. (This was delayed by two days to make sure emergency reviews are taken into account. Extended abstracts were reviewed by the program chairs and only have a decision.)
 - **October 18, 2022** -- Camera-ready papers due. (Please read below for instructions.)
+- **November 16, 2022** -- Upload poster (poster presenters) or video recording (only papers #31, #32, #39, #73). Read below for poster instructions.
 - December 8, 2022 -- Workshop (hybrid).
 
 All deadlines are 11:59pm UTC-12 ("anywhere on earth").
@@ -28,6 +29,8 @@ All deadlines are 11:59pm UTC-12 ("anywhere on earth").
 
 - The onsite poster panels are 3.28’ (1m wide) x 8.20’ (2.5m tall). We recommend to have posters that are portrait in orientation.
 - Virtual posters will be available in GatherTown throughout the conference. Apart from the scheduled virtual poster session, posters can be viewed and commented on at any time. We ask you to be virtually present at your poster at the virtual poster session as will be advertised on the schedule.
+
+Please read the [Poster and Talk Accessibility, Quality, and Inclusivity](https://2022.naacl.org/blog/poster-talk-accessibility-quality-inclusivity/) guidelines.
 
 ## Workshop description
 
