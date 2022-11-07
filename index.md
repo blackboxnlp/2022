@@ -19,6 +19,13 @@ Catherine Olsson is a research engineer at Anthropic, and the lead author on the
 
 
 ### David Bau
+<img src="https://s32615.pcdn.co/wp-content/uploads/2022/04/Bau-David-2991-inline.jpg" width="250px" align="right">
+
+David Bau is Assistant Professor at the Northeastern University Khoury College of Computer Science. He received his PhD from MIT and AB from Harvard. He is known for his network dissection studies of individual neurons in deep networks and has published research on the interpretable structure of large models in PNAS, CVPR, NeurIPS, and SIGGRAPH.  Prof. Bau is also coauthor of the textbook, Numerical Linear Algebra.
+
+**Direct Model Editing**
+
+Can we understand large deep networks well enough to reprogram them by changing their parameters directly?  In this talk I will talk about Direct Model Editing: how to modify the weights of a large model directly by understanding its structure.  We will consider examples in computer vision and NLP: how to probe and rewrite computations within an image synthesis model to alter compositional rules that govern rendering of realistic images, and how the ROME method can edit specific factual memories within a large language model, directly tracing and modifying parameters that store associations within GPT.  I will talk about how causal mediation analysis can serve as a key to unlock the secrets of a huge model; the specificity-generalization trade-off when evaluating knowledge changes in a large model; and how recent results in our MEMIT work suggest that direct editing i
 
 ## Important dates
 
