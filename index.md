@@ -13,7 +13,10 @@ Elena (Lena) Voita is a Research Scientist joining Facebook AI Research. She is 
 
 In this talk, I illustrate how the same process (in this case, NMT training process) can be viewed from different perspectives: from the inside of the model and from the outside, i.e. in a black-box manner. In the first view, we look at the model’s inner workings and try to understand how NMT balances two different types of context, the source and the prefix of the target sentence. In the second view, we look at model outputs (i.e. generated translations) at different steps during training and evaluate how the model acquires different competences. We find that NMT training consists of the stages where it focuses on the competences mirroring three core SMT components: target-side language modeling, lexical translation and reordering. Most importantly, the two views show the same process, and we will see how this process is reflected in these two types of analysis.
 
-### Catherine Olson
+### Catherine Olsson
+<img src="https://raw.githubusercontent.com/blackboxnlp/blackboxnlp.github.io/main/catherine.jpeg" width="250px" align="right">
+Catherine Olsson is a research engineer at Anthropic, and the lead author on the recent mechanistic interpretability paper "In-context Learning and Induction Heads". She has previously worked in technical research roles at Google Brain and OpenAI, and as a grantmaker at Open Philanthropy Project funding academic research in ML robustness.
+
 
 ### David Bau
 
