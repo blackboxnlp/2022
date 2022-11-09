@@ -3,6 +3,10 @@
 There will be a fifth edition of BlackboxNLP! 
 It will be collocated with EMNLP 2022.
 
+## Program
+
+Our [workshop program](/program) is now online.
+
 ## Invited speakers
 
 ### [Lena Voita](https://lena-voita.github.io/)
