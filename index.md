@@ -3,6 +3,10 @@
 There will be a fifth edition of BlackboxNLP! 
 It will be collocated with EMNLP 2022.
 
+## News
+
+- We started a YouTube channel: [https://www.youtube.com/@blackboxnlp](https://www.youtube.com/@blackboxnlp). Subscribe to be informed of all upcoming content. You can already watch this year's keynotes. 
+
 ## Program
 
 Our [workshop program](/program) is now online.
