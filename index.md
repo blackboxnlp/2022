@@ -9,7 +9,7 @@ It will be collocated with EMNLP 2022.
 
 ## Program
 
-Our [workshop program](/program) is now online.
+Our [workshop program](/program.md) is now online.
 
 ## Invited speakers
 
